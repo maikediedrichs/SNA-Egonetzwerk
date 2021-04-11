@@ -1,0 +1,13 @@
+from,to,weight
+MD,SH,4
+MD,CH,3
+MD,LG,3
+MD,CF,2
+CH,MD,3
+CH,SH,1
+CH,CF,3
+SH,MD,4
+SH,CH,2
+LG,MD,3
+CF,MD,2
+CF,CH,3
